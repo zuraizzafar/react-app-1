@@ -6,7 +6,8 @@ function Header() {
         <div>
             <Title/>
             <p>This is Headear paragraph</p>
-            <Button/>
+            <Button title="Button Text"/>
+            <Button title="Button Text 2"/>
         </div>
     )
 }
